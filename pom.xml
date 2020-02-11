@@ -15,7 +15,7 @@
     <description>Adaego project for Spring Boot</description>
     <properties>
         <java.version>1.8</java.version>
-        <jackson.version>2.9.0</jackson.version>
+        <jackson.version>2.9.10.1</jackson.version>
         <geotools.version>15.1</geotools.version>
     </properties>
 
